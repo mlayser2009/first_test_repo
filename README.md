@@ -1,7 +1,6 @@
 # first_test_repo
 Testing out GitHub and version control
 
-Here's a funny python joke:
+A horse walks into a bar and the bartender asks, "why the long face"
 
-* sssssss
-* I forgot
+**shrugs**
